@@ -3,3 +3,5 @@ version: '0'
 services:
   influx:
     image: influxdb
+  app:
+    image: python
